@@ -1,4 +1,4 @@
-Hi ! I am Saksham Angirash
+I am Saksham Angirash
 ========================================================================================================================================
 
 Computer Science Undergraduate 
